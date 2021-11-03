@@ -15,3 +15,7 @@ For this classification task, you would typically have aimed for one new dataset
 Each new dataset should be presented by the team member who will be gathering and working on this data.
 
 You should also describe here which aspects of the tutorial you investigated on your new datasets.  For example, seeing whether the improvement from using pretrained embeddings on the original dataset also holds on the new datasets.
+
+# New data source links:
+1. http://cucis.ece.northwestern.edu/projects/Social/sentiment_data.html
+2. http://help.sentiment140.com/for-students
