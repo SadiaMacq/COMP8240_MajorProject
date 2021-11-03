@@ -19,3 +19,5 @@ You should also describe here which aspects of the tutorial you investigated on 
 # New data source links:
 1. http://cucis.ece.northwestern.edu/projects/Social/sentiment_data.html
 2. http://help.sentiment140.com/for-students
+
+N.B: The data downloaded from source 2 could not be uploaded due to size of the data
